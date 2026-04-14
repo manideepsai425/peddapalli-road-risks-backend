@@ -1,0 +1,20 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {"type":"Feature","properties":{"id":"RS_001","name":"Rajiv Highway (SH-1)","road_type":"Highway","speed_limit":80,"risk_base":0.55},"geometry":{"type":"LineString","coordinates":[[79.383,18.616],[79.395,18.630],[79.410,18.645],[79.420,18.660],[79.420,18.680]]}},
+    {"type":"Feature","properties":{"id":"RS_002","name":"SH-1 Peddapalli-Karimnagar","road_type":"Highway","speed_limit":80,"risk_base":0.50},"geometry":{"type":"LineString","coordinates":[[79.383,18.616],[79.365,18.590],[79.350,18.570],[79.340,18.550]]}},
+    {"type":"Feature","properties":{"id":"RS_003","name":"Godavarikhani Road","road_type":"Arterial","speed_limit":60,"risk_base":0.40},"geometry":{"type":"LineString","coordinates":[[79.383,18.616],[79.420,18.630],[79.460,18.650],[79.490,18.660]]}},
+    {"type":"Feature","properties":{"id":"RS_004","name":"Basanthnagar Road","road_type":"Arterial","speed_limit":60,"risk_base":0.60},"geometry":{"type":"LineString","coordinates":[[79.420,18.680],[79.440,18.710],[79.460,18.730],[79.500,18.750]]}},
+    {"type":"Feature","properties":{"id":"RS_005","name":"Ramagundam Road","road_type":"Highway","speed_limit":80,"risk_base":0.58},"geometry":{"type":"LineString","coordinates":[[79.420,18.680],[79.430,18.720],[79.440,18.760],[79.450,18.800]]}},
+    {"type":"Feature","properties":{"id":"RS_006","name":"Manthani Road","road_type":"Arterial","speed_limit":60,"risk_base":0.35},"geometry":{"type":"LineString","coordinates":[[79.383,18.616],[79.420,18.600],[79.460,18.590],[79.500,18.580]]}},
+    {"type":"Feature","properties":{"id":"RS_007","name":"Dharmaram Road","road_type":"Local","speed_limit":40,"risk_base":0.25},"geometry":{"type":"LineString","coordinates":[[79.383,18.616],[79.360,18.620],[79.340,18.630],[79.320,18.640]]}},
+    {"type":"Feature","properties":{"id":"RS_008","name":"SH-7 Corridor","road_type":"Highway","speed_limit":80,"risk_base":0.55},"geometry":{"type":"LineString","coordinates":[[79.380,18.700],[79.360,18.720],[79.340,18.740],[79.320,18.750]]}},
+    {"type":"Feature","properties":{"id":"RS_009","name":"Karimnagar-Peddapalli Bypass","road_type":"Highway","speed_limit":80,"risk_base":0.48},"geometry":{"type":"LineString","coordinates":[[79.400,18.600],[79.390,18.610],[79.383,18.616],[79.370,18.625],[79.360,18.620]]}},
+    {"type":"Feature","properties":{"id":"RS_010","name":"Sulthanabad Road","road_type":"Local","speed_limit":40,"risk_base":0.22},"geometry":{"type":"LineString","coordinates":[[79.420,18.560],[79.440,18.570],[79.460,18.580]]}},
+    {"type":"Feature","properties":{"id":"RS_011","name":"Odela-Peddapalli Road","road_type":"Arterial","speed_limit":60,"risk_base":0.38},"geometry":{"type":"LineString","coordinates":[[79.300,18.640],[79.330,18.625],[79.360,18.616],[79.383,18.616]]}},
+    {"type":"Feature","properties":{"id":"RS_012","name":"Mancherial Connector","road_type":"Highway","speed_limit":80,"risk_base":0.52},"geometry":{"type":"LineString","coordinates":[[79.460,18.720],[79.480,18.740],[79.510,18.760]]}},
+    {"type":"Feature","properties":{"id":"RS_013","name":"Industrial Bypass Ramagundam","road_type":"Arterial","speed_limit":50,"risk_base":0.45},"geometry":{"type":"LineString","coordinates":[[79.470,18.780],[79.460,18.800]]}},
+    {"type":"Feature","properties":{"id":"RS_014","name":"NH-163 Stretch","road_type":"Highway","speed_limit":100,"risk_base":0.50},"geometry":{"type":"LineString","coordinates":[[79.350,18.500],[79.365,18.530],[79.380,18.560]]}},
+    {"type":"Feature","properties":{"id":"RS_015","name":"Peddapalli Town Circle Road","road_type":"Local","speed_limit":30,"risk_base":0.20},"geometry":{"type":"LineString","coordinates":[[79.380,18.610],[79.383,18.616],[79.390,18.620]]}}
+  ]
+}
